@@ -1,4 +1,4 @@
-A project that uses data engineering skills to analyze disaster data to build a model for an API that classifies disaster messages. The project is a part of Udacity's Data Scientist nanodegree.
+A project that uses data engineering skills to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. The project is a part of Udacity's Data Scientist nanodegree.
 
 Project Components and Stages
 There are three components for this project in two stages.
